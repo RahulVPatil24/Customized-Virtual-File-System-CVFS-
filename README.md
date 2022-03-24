@@ -35,7 +35,7 @@ system calls then the execution speed of thtat application is less and it is muc
 application which uses the library functions.
 
 #### As the name suggest it is a virtual because we maintain all records in Primary storage.
-#### By using this project we can get overview of UFS (UNIX File System) on any platform.
+#### By using this project we can get overview of LFS (LINUX File System) on any platform.
 
 
 ## Datastructures used in project:-
