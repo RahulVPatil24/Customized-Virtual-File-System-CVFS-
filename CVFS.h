@@ -186,7 +186,7 @@ void InitialiseSuperBlock()
         i++;
     }
 
-    SUPERBLOCKobj.TotalInodes = MAXFILESIZE;
+    SUPERBLOCKobj.TotalInodes = MAXINODE;
     SUPERBLOCKobj.FreeInode = MAXINODE;
 }
 
